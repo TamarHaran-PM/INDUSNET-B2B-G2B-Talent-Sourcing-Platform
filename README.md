@@ -1,4 +1,6 @@
 # INDUSNET-B2B-G2B-Talent-Sourcing-Platform
+Link: https://industry.org.il/INDUSNET
+
 Overview
 INDUSNET is a web-based platform designed to bridge the critical labor shortage in the Israeli industry by connecting industry HR professionals and recruiters with non-profit, governmental, and public sector organizations. The platform serves as a B2B and G2B gateway, providing a free, centralized channel to tap into new, diverse talent pools.
 
